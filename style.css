@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #000;
+    color: rgb(10, 129, 30);
+    font-family: 'Courier New', monospace; 
+    font-size: 8px; 
+    overflow: hidden;
+}
+
+#ascii-container {
+    white-space: pre; 
+    text-align: left; 
+    line-height: 1; 
+    /* border: 1px solid red; */
+}
