@@ -5,13 +5,16 @@ This project renders a rotating 3D cube using ASCII characters in the web browse
 ## Preview
 
 ```
-       +-----+
-      /     /|
-     /     / |
-    +-----+  |
-    |     |  +
-    |     | /
-    +-----+/
+         +--------+
+        /########/|
+       /########/ |
+      /########/  |
+     +--------+   |
+     |@@@@@@@@|   |
+     |@@@@@@@@|   +
+     |@@@@@@@@|  /
+     |@@@@@@@@| /
+     +--------+/
 ```
 
 ## How to run
